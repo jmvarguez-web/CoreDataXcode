@@ -85,12 +85,12 @@
 			children = (
 				FDE4F6861B2FD98000F3604C /* AppDelegate.swift */,
 				FDE4F68B1B2FD98000F3604C /* MainVC.swift */,
+				FDE4F6AB1B2FDC0700F3604C /* TableVC.swift */,
 				FDE4F68D1B2FD98000F3604C /* Main.storyboard */,
 				FDE4F6901B2FD98000F3604C /* Images.xcassets */,
 				FDE4F6921B2FD98000F3604C /* LaunchScreen.xib */,
 				FDE4F6881B2FD98000F3604C /* GroceryList.xcdatamodeld */,
 				FDE4F6841B2FD98000F3604C /* Supporting Files */,
-				FDE4F6AB1B2FDC0700F3604C /* TableVC.swift */,
 			);
 			path = GroceryList;
 			sourceTree = "<group>";
